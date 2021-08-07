@@ -34,7 +34,7 @@ navbar-links:
 # avatar: "/assets/img/Zfire.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+#round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -92,7 +92,7 @@ post_search: true
 navbar-col: "#000000"
 navbar-border-col: "#000000"
 navbar-text-col: "#FFFFFF"
-page-col: "#000000"
+#page-col: "#000000"
 text-col: "#FFFFFF"
 link-col: "#808080"
 hover-col: "#0085A1"
@@ -104,7 +104,7 @@ footer-link-col: "#404040"
 
 navbar-img: "/assets/img/blurdark.jpeg"
 footer-img: "/assets/img/blurdark.jpeg"
-page-img: "/assets/js/particle.js"
+#page-img: "/assets/js/particle.js"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 mobile-theme-col: "#0085A1"
