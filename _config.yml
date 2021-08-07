@@ -21,7 +21,10 @@ navbar-links:
     - Basic markdown syntax: "https://www.markdownguide.org/basic-syntax/"
     - Master markdown: "https://guides.github.com/features/mastering-markdown/"
   projects:
-    - Codecademy wevdev path: "https://github.com/N3r0m5ns3r/codecademy-webdev-path/"
+    - Codecademy web dev path: "https://github.com/N3r0m5ns3r/codecademy-webdev-path/"
+    - React game: "https://github.com/N3r0m5ns3r/react-tic-tac-toe-game"
+    - Chore door: "https://github.com/N3r0m5ns3r/Chore-Door"
+
   #Author's home: "https://youtu.be/hVvEISFw9w0"
   #donate(xmr): "/assets/img/monero.png"
 # --- Logo --- #
