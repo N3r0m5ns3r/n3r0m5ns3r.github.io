@@ -16,9 +16,9 @@ author: Ziad ouahmane
 
 navbar-links:
   About Me: "aboutme"
-  projects:
-  porfolio:
-  blog:
+  Projects:
+  Portfolio:
+  Blog:
   #Author's home: "https://youtu.be/hVvEISFw9w0"
   #donate(xmr): "/assets/img/monero.png"
 # --- Logo --- #
