@@ -16,22 +16,16 @@ author: Ziad ouahmane
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - Basic markdown syntax: "https://www.markdownguide.org/basic-syntax/"
-    - Master markdown: "https://guides.github.com/features/mastering-markdown/"
   projects:
-    - Codecademy web dev path: "https://github.com/N3r0m5ns3r/codecademy-webdev-path/"
-    - React game: "https://github.com/N3r0m5ns3r/react-tic-tac-toe-game"
-    - Chore door: "https://github.com/N3r0m5ns3r/Chore-Door"
-
+  porfolio:
+  blog:
   #Author's home: "https://youtu.be/hVvEISFw9w0"
   #donate(xmr): "/assets/img/monero.png"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/Zfire.jpg"
+avatar: "/assets/img/dark.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 #round-avatar: true
