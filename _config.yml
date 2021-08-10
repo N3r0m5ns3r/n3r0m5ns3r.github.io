@@ -16,9 +16,10 @@ author: Ziad ouahmane
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
-  Portfolio:
-  Blog:
+  #Projects:
+  github: https://github.com/N3r0m5ns3r
+  #Portfolio:
+  #Blog:
   #Author's home: "https://youtu.be/hVvEISFw9w0"
   #donate(xmr): "/assets/img/monero.png"
 # --- Logo --- #
@@ -40,7 +41,6 @@ avatar: "/assets/img/cool.jpg"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-
   email: ziad_ouahmane@protonmail.com
   github: N3r0m5ns3r
   twitter: soli_of
